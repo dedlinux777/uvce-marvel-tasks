@@ -70,7 +70,7 @@ In this task, I worked on a **Linux troubleshooting challenge** called *Sad Serv
 
 ---
 
-## Task 5: Writing Resource Article using Markdown  
+## Task 6: Writing Resource Article using Markdown  
 
 In this task, I explored **Markdown** as a simple way to format technical articles. I wrote an article on the topic *“Process vs. Thread: OS Concepts Simplified”*, where I explained the differences between processes and threads with examples, a comparison table, and short Python demos.  Markdown made it easy to add headings, tables, code blocks, and images without using HTML. This helped me understand how Markdown can be used for technical documentation and publishing resources online.  
 
@@ -79,10 +79,24 @@ You can read the full article here:
 
 ---
 
+### Task 7: Portfolio Webpage Report  
 
+For this task, I built a **responsive portfolio website** using **React** and **Bootstrap**.  The site showcases my profile, interests, projects, and social links with a clean design.  A dynamic gradient background changes with user interaction.
 
+Portfolio Link: [harsha-portfolio-taupe.vercel.app](https://harsha-portfolio-taupe.vercel.app/)  
 
+---
 
+### Task 8: API Report  
+
+For this task, I built a simple web app called **Scanalyze** using the **VirusTotal API**.  
+The app can scan both **URLs** and **files** to check if they contain any malicious content.  
+
+    App Link: [Scanalyze](https://scanlyze-roan.vercel.app/)  
+    
+    Referred site for VirusTotal Python API Docs: [vt-py Quickstart](https://virustotal.github.io/vt-py/quickstart.html#get-information-about-a-file)  
+
+---
 
 
 # Conclusion  
