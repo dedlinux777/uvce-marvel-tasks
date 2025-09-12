@@ -68,6 +68,16 @@ In this task, I worked on a **Linux troubleshooting challenge** called *Sad Serv
 ---
 
 
+---
+
+## Task 5: Writing Resource Article using Markdown  
+
+In this task, I explored **Markdown** as a simple way to format technical articles. I wrote an article on the topic *“Process vs. Thread: OS Concepts Simplified”*, where I explained the differences between processes and threads with examples, a comparison table, and short Python demos.  Markdown made it easy to add headings, tables, code blocks, and images without using HTML. This helped me understand how Markdown can be used for technical documentation and publishing resources online.  
+
+You can read the full article here:  
+[Process vs. Thread: OS Concepts Simplified](https://github.com/dedlinux777/uvce-marvel-tasks/blob/main/Level%200/process-mutlithreading.md)  
+
+---
 
 
 
