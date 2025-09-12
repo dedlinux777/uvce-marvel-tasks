@@ -98,6 +98,14 @@ The app can scan both **URLs** and **files** to check if they contain any malici
 
 ---
 
+### Task 9: LED Toggle Using ESP32  
+
+For this task, I worked with the **ESP32 microcontroller** and learned how to create a web server to control an LED through its GPIO pins. I Installed and configured **Arduino IDE** with ESP32 board support. Connected the ESP32 board and verified communication with the IDE. Wrote and uploaded a program that created a simple web server. Served an HTML page with **ON/OFF buttons**. Accessed the ESP32’s **IP address** via a browser. Controlled an LED connected to ESP32 GPIO pins based on user input.  
+
+![ESP32 toggling LED's](https://github.com/dedlinux777/uvce-marvel-tasks/blob/main/assets/ESP%2032%20GIF.gif?raw=true)
+
+---
+
 
 # Conclusion  
 Completing Level 1 tasks gave me practical exposure to different domains, improved my problem-solving skills, and helped me become comfortable with tools like [list tools/technologies you used]. I look forward to advancing to the next levels and exploring more.  
