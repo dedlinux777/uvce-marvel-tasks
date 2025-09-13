@@ -104,6 +104,12 @@ For this task, I worked with the **ESP32 microcontroller** and learned how to cr
 
 ---
 
+### Task 10: Datasheets Report Writing  
+
+For this task, I studied the **MQ-135 Gas Sensor** and prepared a detailed report covering its working principle, pin configuration, gas calibrations, and the Freundlich Adsorption Isotherm graph. The report also explains its applications, advantages, and limitations in air quality monitoring and IoT-based systems.  
+
+Full Report: [MQ-135 Gas Sensor Task Report](http://github.com/dedlinux777/uvce-marvel-tasks/blob/main/Level%200/MQ135%20Gas%20sensor%20task%20report.md)  
+
 
 
 
