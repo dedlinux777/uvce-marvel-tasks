@@ -9,7 +9,6 @@ The following tasks were assigned under Marvel Level 1. These tasks helped me ex
 ## Task 1: Working with GitHub  
 
 In this task, I worked with GitHub to understand how **Issues, Pull Requests, and GitHub Actions** work together in a project. The goal was to fix an error in the main branch of the given repository and submit a Pull Request with the correction.  
-
 Through this task, I learned: 
 How to fork a repository and create my own copy, cloning the repository to my local system and made changes in the new branch, identified the bug in the code and I resolved it, next commit and push the changes to Github by creating a **Pull Request** that I've fixed the bug in the code.
 
@@ -67,9 +66,6 @@ In this task, I worked on a **Linux troubleshooting challenge** called *Sad Serv
 
 ---
 
-
----
-
 ## Task 6: Writing Resource Article using Markdown  
 
 In this task, I explored **Markdown** as a simple way to format technical articles. I wrote an article on the topic *“Process vs. Thread: OS Concepts Simplified”*, where I explained the differences between processes and threads with examples, a comparison table, and short Python demos.  Markdown made it easy to add headings, tables, code blocks, and images without using HTML. This helped me understand how Markdown can be used for technical documentation and publishing resources online.  
@@ -110,8 +106,59 @@ For this task, I studied the **MQ-135 Gas Sensor** and prepared a detailed repor
 
 Full Report: [MQ-135 Gas Sensor Task Report](http://github.com/dedlinux777/uvce-marvel-tasks/blob/main/Level%200/MQ135%20Gas%20sensor%20task%20report.md)  
 
+---
 
+### Task 11: Active Participation  
+
+I actively participated in the **GeeksforGeeks Bengaluru Workshop Series** under the Nation SkillUp initiative. The workshops topic MERN development.  During the sessions, I gained practical experience in designing and deploying applications. Alongside learning, I actively engaged in activities and won a **quiz competition**, earning a **GfG T-shirt** as a reward.  
+I also received a **certificate of participation** for successfully attending the workshop.  
+ Certificate: ![GFG Certificate](https://github.com/dedlinux777/uvce-marvel-tasks/blob/main/GFG%20cert%201.jpeg?raw=true)  
+ T-shirt Reward: ![GFG T-shirt](https://github.com/dedlinux777/uvce-marvel-tasks/blob/main/GFG%20cert%202.jpeg?raw=true)  
+
+---
+
+### Task 12: 3D Printing  
+
+For this task, I learned about the **working of a 3D printer** theory and its main components such as the extruder, filament, print bed, and controller board. I understood how the process works in three stages – **designing (STL file)**, **slicing (using software like Ultimaker Cura or Creality Slicer)**,  and **printing** where material is added layer by layer. I also studied the **different types of 3D printing technologies** like FDM, SLA, and SLS, along with the materials used in each. 
+![3D Printing GIF](https://github.com/dedlinux777/uvce-marvel-tasks/blob/main/assets/Task%201%203D%20prinitng%20GIF.gif?raw=true)  
+
+
+---
+
+### Task 13: Build Your Own Brain - Linear Regression from Scratch  
+
+In this task, I implemented **Linear Regression manually** using Gradient Descent and compared it with the **Scikit-learn implementation**. The goal was to predict house values based on median income using the California Housing dataset.  
+- **Manual Gradient Descent**: Started with random slope and intercept, updated them step by step to reduce error.  
+- **Scikit-learn**: Used built-in LinearRegression which gives results instantly using matrix algebra.  
+- **Comparison**: Both models gave similar best-fit lines, but sklearn was faster and more optimized.  
+I plotted the real data, my manual regression line (red), and sklearn’s regression line (green dashed).  
+
+![Linear Regression Plot](https://github.com/dedlinux777/uvce-marvel-tasks/blob/main/assets/Task%206%20Linear%20Regression%20from%20scratch.png?raw=true)  
+
+---
+
+### Task 14: The Matrix Puzzle — Decode with NumPy & Reveal the Image  
+In this task, I decoded a **scrambled matrix** to reveal a hidden image using **NumPy** and **Matplotlib**.  
+- First reshaped the scrambled 1D array into a square matrix.  
+- Then transposed and flipped it to fix the orientation.  
+- Finally, visualized the corrected image with matplotlib.  
+This helped me practice reshaping, slicing, transposing, and flipping arrays with NumPy.  
+![Matrix Puzzle Result](https://github.com/dedlinux777/uvce-marvel-tasks/blob/main/assets/Task%207%20Matrix%20Puzzle.png?raw=true)  
+
+---
+
+### Task 15: Speed Control of DC Motor  
+
+In this task, I explored how to control the **speed of a DC motor** using an **Arduino UNO** and the **L298N Motor Driver (H-Bridge)**. The key idea was that the motor’s speed depends on the applied voltage, and by using **PWM (Pulse Width Modulation)** from Arduino, I could smoothly vary the average voltage and thus control the speed.  
+
+I first simulated the setup in **Tinkercad** and then tested it on hardware with a **5V BO motor**. The L298N module was used to manage both **direction** (IN1/IN2 pins) and **speed** (ENA pin connected to Arduino’s PWM). A simple Arduino sketch was written to gradually increase and decrease the motor speed, demonstrating smooth acceleration and deceleration.  
+
+This activity helped me understand the **working of PWM in speed control**, **motor driver interfacing**, and the importance of an external power supply for better torque.  
+
+Project Image:  
+![DC Motor Speed Control](https://github.com/dedlinux777/uvce-marvel-tasks/blob/main/assets/TASK%2010%20Speed%20Control%20of%20DC%20Motor.jpeg?raw=true)  
 
 
 # Conclusion  
-Completing Level 1 tasks gave me practical exposure to different domains, improved my problem-solving skills, and helped me become comfortable with tools like [list tools/technologies you used]. I look forward to advancing to the next levels and exploring more.  
+
+Completing Level 0 tasks gave me practical exposure to different domains, improved helped me become comfortable with tools of different domains.
