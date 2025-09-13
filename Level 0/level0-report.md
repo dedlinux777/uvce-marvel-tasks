@@ -90,11 +90,9 @@ Portfolio Link: [harsha-portfolio-taupe.vercel.app](https://harsha-portfolio-tau
 ### Task 8: API Report  
 
 For this task, I built a simple web app called **Scanalyze** using the **VirusTotal API**.  
-The app can scan both **URLs** and **files** to check if they contain any malicious content.  
-
-    App Link: [Scanalyze](https://scanlyze-roan.vercel.app/)  
-    
-    Referred site for VirusTotal Python API Docs: [vt-py Quickstart](https://virustotal.github.io/vt-py/quickstart.html#get-information-about-a-file)  
+The app can scan both **URLs** and **files** to check if they contain any malicious content. 
+App Link: [Scanalyze](https://scanlyze-roan.vercel.app/)  
+Referred site for VirusTotal Python API Docs: [vt-py Quickstart](https://virustotal.github.io/vt-py/quickstart.html#get-information-about-a-file)  
 
 ---
 
@@ -105,6 +103,8 @@ For this task, I worked with the **ESP32 microcontroller** and learned how to cr
 ![ESP32 toggling LED's](https://github.com/dedlinux777/uvce-marvel-tasks/blob/main/assets/ESP%2032%20GIF.gif?raw=true)
 
 ---
+
+
 
 
 # Conclusion  
